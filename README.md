@@ -37,6 +37,3 @@ g++ blockchain_voting.cpp -o voting -lssl -lcrypto
 - Implement digital signatures for voter authentication.
 - Introduce networking for a decentralized peer-to-peer system.
 - Add encryption for better security.
-
-## License
-This project is open-source and can be modified freely.
